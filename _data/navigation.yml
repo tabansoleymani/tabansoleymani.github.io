@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://tabansoleymani.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://tabansoleymani.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://tabansoleymani.github.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://tabansoleymani.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://tabansoleymani.github.io/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://tabansoleymani.github.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: https://tabansoleymani.github.io/markdown/
