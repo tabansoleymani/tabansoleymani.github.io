@@ -13,7 +13,7 @@ redirect_from:
 ###  Education
 ----
 ##### M.Sc. in Electrical Engineering (Communication Networks) - University of Tehran, **September 2021 - September 2024**
-:   Thesis Title: ``An intelligent caching strategy in Content-based Networks with Transient Data'' under the supervision of [Dr. N. Yazdani](https://ieeexplore.ieee.org/author/37273359300) and [Dr. SP. Shariatpanahi](https://ieeexplore.ieee.org/author/38322979900)
+:   Thesis Title: ``An intelligent caching strategy in Content-based Networks with Transient Data'' under the supervision of [Dr. N. Yazdani](https://ieeexplore.ieee.org/author/37273359300) and [Dr. S. P. Shariatpanahi](https://ieeexplore.ieee.org/author/38322979900)
 
 ##### B.Sc. in Electrical Engineering (Communication) - University of Tehran, **September 2016 - February 2021**
 :   Project Title: ``Simulation of IoT Networks'' under the supervision of [Dr. V. Shah-mansouri](https://ieeexplore.ieee.org/author/38275680000)
