@@ -7,6 +7,49 @@ redirect_from:
   - /about.html
 ---
 
+#  About Me
+
+# Academic Experience
+###  Education
+----
+##### M.Sc. in Electrical Engineering (Communication Networks) - University of Tehran, **September 2021 - September 2024**
+:   Thesis Title: ``An intelligent caching strategy in Content-based Networks with Transient Data'' under the supervision of [Dr. N. Yazdani](https://ieeexplore.ieee.org/author/37273359300) and [Dr. SP. Shariatpanahi](https://ieeexplore.ieee.org/author/38322979900)
+
+##### B.Sc. in Electrical Engineering (Communication) - University of Tehran, **September 2016 - February 2021**
+:   Project Title: ``Simulation of IoT Networks'' under the supervision of [Dr. V. Shah-mansouri](https://ieeexplore.ieee.org/author/38275680000)
+
+###  Research Experience
+----
+##### Independent Researcher, **October 2024 – Present**
+:   Conducting research on Deep Reinforcement Learning-based (DRL) algorithms for joint vehicular edge caching and task offloading
+:   Implementing network simulations to provide urban vehicular dataset using SUMO platforms
+
+##### Graduate Research Assistant at Department of Electrical and Computer Engineering - University of Tehran, **April 2022 – September 2024**
+:   Conducting research on Deep Reinforcement Learning-based (DRL) algorithms for vehicular edge caching by considering data delivery deadline
+
+### Teaching Experience
+----
+| Semester | Course | Position | Lecturer(s) |
+|-----------|--------|----------|------------|
+| Fall 2024 | Machine Learning | Teaching Assistant | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Araabi](https://ieeexplore.ieee.org/author/37265972700), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
+| Spring 2024 | Machine Learning | Teaching Assistant | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
+| Fall 2023 | Reinforcement Learning | Teaching Assistant | [Dr. Nili](https://ieeexplore.ieee.org/author/38277936100) |
+| Fall 2023 | Machine Learning | Teaching Assistant | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Araabi](https://ieeexplore.ieee.org/author/37265972700), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
+| Fall 2023 | Signals and Systems | Teaching Assistant | [Dr. Akhaee](https://ieeexplore.ieee.org/author/37391771700) |
+| Fall 2023 | Advanced Computer Mathematics | **Head Teaching Assistant** | [Dr. Yazdani](https://ieeexplore.ieee.org/author/37273359300) |
+| Spring 2023 | Computer Networks | **Head Teaching Assistant** | [Dr. Shah-Mansouri](https://ieeexplore.ieee.org/author/38275680000) |
+| Spring 2023 | Probability and Statistics | Teaching Assistant | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en) |
+| Spring 2023 | Performance Evaluation of Computer Systems | Teaching Assistant | [Dr. Khonsari](https://ieeexplore.ieee.org/author/37269422900) |
+| Fall 2022 | Advanced Computer Mathematics | Teaching Assistant | [Dr. Yazdani](https://ieeexplore.ieee.org/author/37273359300) |
+| Spring 2022 | Circuit Laboratory | Teaching Assistant | [Shima Rezaie](https://ieeexplore.ieee.org/author/37086924760) |
+| Spring 2021 | Introduction to Wireless Networks | Teaching Assistant | [Dr. S. P. Shariatpanahi](https://ieeexplore.ieee.org/author/38322979900) |
+| Fall 2020 | Microprocessors Laboratory | Teaching Assistant | [Dr. Fatemi](https://ieeexplore.ieee.org/author/37269349900) |
+| Spring 2020 | Microprocessors I | Teaching Assistant | [Dr. Fatemi](https://ieeexplore.ieee.org/author/37269349900) |
+| Spring 2020 | Electronics I | Teaching Assistant | [Dr. Sanaee](https://ieeexplore.ieee.org/author/37394461100) |
+| Spring 2019 | Digital Logic Design | Teaching Assistant | [Dr. Navabi](https://ieeexplore.ieee.org/author/37268302500) |
+| Fall 2018 | Signals and Systems | Teaching Assistant | [Dr. Akhaee](https://ieeexplore.ieee.org/author/37391771700) |
+
+<!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
@@ -47,3 +90,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
