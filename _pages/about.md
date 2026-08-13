@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Academic Experience
-###  Education
+##  Education
 ----
 M.Sc. in Electrical Engineering (Communication Networks) - University of Tehran, **September 2021 - September 2024**
 :   Thesis Title: An intelligent caching strategy in Content-based Networks with Transient Data under the supervision of [Dr. N. Yazdani](https://ieeexplore.ieee.org/author/37273359300) and [Dr. S. P. Shariatpanahi](https://ieeexplore.ieee.org/author/38322979900)
@@ -16,7 +16,7 @@ M.Sc. in Electrical Engineering (Communication Networks) - University of Tehran,
 B.Sc. in Electrical Engineering (Communication) - University of Tehran, **September 2016 - February 2021**
 :   Project Title: Simulation of IoT Networks under the supervision of [Dr. V. Shah-mansouri](https://ieeexplore.ieee.org/author/38275680000)
 
-###  Research Experience
+##  Research Experience
 ----
 Independent Researcher, **October 2024 – Present**
 :   Conducting research on Deep Reinforcement Learning-based (DRL) algorithms for joint vehicular edge caching and task offloading
@@ -25,7 +25,7 @@ Independent Researcher, **October 2024 – Present**
 Graduate Research Assistant at Department of Electrical and Computer Engineering - University of Tehran, **April 2022 – September 2024**
 :   Conducting research on Deep Reinforcement Learning-based (DRL) algorithms for vehicular edge caching by considering data delivery deadline
 
-### Teaching Experience
+## Teaching Experience
 ----
 | Semester | Course | Position | Lecturer(s) |
 |-----------|--------|----------|------------|
