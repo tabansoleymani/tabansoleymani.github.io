@@ -9,7 +9,7 @@ redirect_from:
 
 # Academic Experience
 ##  Education
-----
+
 M.Sc. in Electrical Engineering (Communication Networks) - University of Tehran, **September 2021 - September 2024**
 :   Thesis Title: An intelligent caching strategy in Content-based Networks with Transient Data under the supervision of [Dr. N. Yazdani](https://ieeexplore.ieee.org/author/37273359300) and [Dr. S. P. Shariatpanahi](https://ieeexplore.ieee.org/author/38322979900)
 
@@ -17,7 +17,7 @@ B.Sc. in Electrical Engineering (Communication) - University of Tehran, **Septem
 :   Project Title: Simulation of IoT Networks under the supervision of [Dr. V. Shah-mansouri](https://ieeexplore.ieee.org/author/38275680000)
 
 ##  Research Experience
-----
+
 Independent Researcher, **October 2024 – Present**
 :   Conducting research on Deep Reinforcement Learning-based (DRL) algorithms for joint vehicular edge caching and task offloading
 :   Implementing network simulations to provide urban vehicular dataset using SUMO platforms
@@ -26,13 +26,15 @@ Graduate Research Assistant at Department of Electrical and Computer Engineering
 :   Conducting research on Deep Reinforcement Learning-based (DRL) algorithms for vehicular edge caching by considering data delivery deadline
 
 ## Teaching Experience
-----
+| Course                                      | Position                | Semester    | Lecturer(s)                                                                                |
+| ------------------------------------------- | ----------------------- | ----------- | ------------------------------------------------------------------------------------------ |
+| Machine Learning                            | Teaching Assistant      | Fall 2024   | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Araabi](https://ieeexplore.ieee.org/author/37265972700), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
+| Machine Learning                            | Teaching Assistant      | Spring 2024 | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
+| Reinforcement Learning                      | Teaching Assiatant      | Fall 2023   | [Dr. Nili](https://ieeexplore.ieee.org/author/38277936100)                                 |
+| Machine Learning                            | Teaching Assistant      | Fall 20223  | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Araabi](https://ieeexplore.ieee.org/author/37265972700), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
+
 | Semester | Course | Position | Lecturer(s) |
 |-----------|--------|----------|------------|
-| Fall 2024 | Machine Learning | Teaching Assistant | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Araabi](https://ieeexplore.ieee.org/author/37265972700), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
-| Spring 2024 | Machine Learning | Teaching Assistant | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
-| Fall 2023 | Reinforcement Learning | Teaching Assistant | [Dr. Nili](https://ieeexplore.ieee.org/author/38277936100) |
-| Fall 2023 | Machine Learning | Teaching Assistant | [Dr. Dehaqani](https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en), [Dr. Araabi](https://ieeexplore.ieee.org/author/37265972700), [Dr. Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en) |
 | Fall 2023 | Signals and Systems | Teaching Assistant | [Dr. Akhaee](https://ieeexplore.ieee.org/author/37391771700) |
 | Fall 2023 | Advanced Computer Mathematics | **Head Teaching Assistant** | [Dr. Yazdani](https://ieeexplore.ieee.org/author/37273359300) |
 | Spring 2023 | Computer Networks | **Head Teaching Assistant** | [Dr. Shah-Mansouri](https://ieeexplore.ieee.org/author/38275680000) |
