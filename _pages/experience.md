@@ -1,9 +1,18 @@
 ---
 layout: archive
-title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
+
+# 💼 Work Experience
+### Senior Developer | [Company Name]
+*Jan 2021 – Present*
+- Led a team of 5 to migrate legacy systems to microservices.
+- Reduced page load time by **40%** through advanced caching strategies.
+
+### Junior Developer | [Previous Company]
+*July 2018 – Dec 2020*
+- Developed 10+ reusable UI components used across the entire platform.
 
 # Academic Experience
 
